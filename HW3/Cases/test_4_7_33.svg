@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="670" height="670" viewBox="0 0 650 650"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" >
+<g transform="matrix(1,0,0,-1,50,650)">
+<rect fill="white" stroke="black" x="0" y="0"  width="160" height="280"/>
+<rect fill="yellow" stroke="black" x="40" y="0" width="40" height="40"/>
+<rect fill="yellow" stroke="black" x="40" y="40" width="40" height="40"/>
+<rect fill="blue" stroke="black" x="40" y="160" width="40" height="40"/>
+<rect fill="blue" stroke="black" x="80" y="160" width="40" height="40"/>
+<rect fill="blue" stroke="black" x="80" y="200" width="40" height="40"/>
+<rect fill="blue" stroke="black" x="120" y="200" width="40" height="40"/>
+<rect fill="purple" stroke="black" x="80" y="0" width="40" height="40"/>
+<rect fill="purple" stroke="black" x="120" y="0" width="40" height="40"/>
+<rect fill="purple" stroke="black" x="80" y="40" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="80" y="80" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="120" y="240" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="80" y="240" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="40" y="240" width="40" height="40"/>
+<rect fill="yellow" stroke="black" x="0" y="200" width="40" height="40"/>
+<rect fill="yellow" stroke="black" x="0" y="240" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="0" y="40" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="40" y="200" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="0" y="80" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="0" y="0" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="0" y="160" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="0" y="120" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="120" y="160" width="40" height="40"/>
+<rect fill="yellow" stroke="black" x="120" y="40" width="40" height="40"/>
+<rect fill="yellow" stroke="black" x="120" y="80" width="40" height="40"/>
+<rect fill="yellow" stroke="black" x="40" y="80" width="40" height="40"/>
+<rect fill="yellow" stroke="black" x="40" y="120" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="120" y="120" width="40" height="40"/>
+<rect fill="cyan" stroke="black" x="80" y="120" width="40" height="40"/>
+</g>
+</svg>
